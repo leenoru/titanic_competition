@@ -1,2 +1,2 @@
 # titanic_competition
-# titanic_competition
+target score 90
